@@ -1,2 +1,1 @@
-# C-Sharp-Priority-Queue
-Stable and Unstable Priority Queue implementations for C#
+This is not yet tested (beyond what you see in the code).
